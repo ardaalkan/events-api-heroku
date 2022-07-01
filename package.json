@@ -1,0 +1,23 @@
+{
+  "name": "events-api-heroku-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardaalkan/events-api-heroku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ardaalkan/events-api-heroku/issues"
+  },
+  "homepage": "https://github.com/ardaalkan/events-api-heroku#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
